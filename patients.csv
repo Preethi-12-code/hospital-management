@@ -1,0 +1,16 @@
+patient_id,name,age,gender,diagnosis,icd10_code,admission_date,discharge_date,department
+P001,John Smith,45,Male,Hypertension,I10,2026-01-05,2026-01-08,Cardiology
+P002,Maria Garcia,32,Female,Type 2 Diabetes,E11.9,2026-01-10,2026-01-14,Endocrinology
+P003,Wei Chen,60,Male,Pneumonia,J18.9,2026-01-12,2026-01-20,Pulmonology
+P004,Aisha Khan,28,Female,Migraine,G43.909,2026-01-15,2026-01-16,Neurology
+P005,Robert Johnson,55,Male,Coronary Artery Disease,I25.10,2026-01-18,2026-01-25,Cardiology
+P006,Fatima Ali,40,Female,Asthma,J45.909,2026-01-20,2026-01-22,Pulmonology
+P007,David Lee,67,Male,Osteoarthritis,M19.90,2026-01-22,2026-01-24,Orthopedics
+P008,Emily Brown,35,Female,Anemia,D64.9,2026-01-25,2026-01-27,Hematology
+P009,Carlos Ramirez,50,Male,Type 2 Diabetes,E11.9,2026-01-28,2026-02-01,Endocrinology
+P010,Sophia Wilson,29,Female,Hypothyroidism,E03.9,2026-02-01,2026-02-03,Endocrinology
+P011,Ahmed Hassan,72,Male,Hypertension,I10,2026-02-03,2026-02-06,Cardiology
+P012,Grace Kim,38,Female,Migraine,G43.909,2026-02-05,2026-02-06,Neurology
+P013,Michael Davis,58,Male,Pneumonia,J18.9,2026-02-08,2026-02-15,Pulmonology
+P014,Linda Martinez,44,Female,Asthma,J45.909,2026-02-10,2026-02-12,Pulmonology
+P015,James Anderson,63,Male,Coronary Artery Disease,I25.10,2026-02-12,2026-02-19,Cardiology
